@@ -12,4 +12,4 @@ transitive(relations,idx\\0). Recebe uma lista de relações no formato [ [1,2],
 
 
 
-EP feito em conjunto por Caio Vinicius e Thales Augusto. Relatório segue em anexo.
+EP feito em conjunto por Caio Vinicius, Thales Augusto e Gustavo Pietro. Relatório segue em anexo.
